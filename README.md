@@ -49,8 +49,7 @@ STM32F429 để lập lịch cho các tác vụ được mô tả ở bảng.
 duy trì phương hướng. Cảm biến sử dụng để đo góc quay vật thể theo 3 trục x,
 y, z sử dụng giao tiếp I2C hoặc SPI. Với nội dung đồ án sử dụng cảm biến để
 đọc góc nghiên của cảm biến theo trục x, y từ đó xác định góc tâng và độ cao
-bóng. Việc đọc giá trị cảm biến sử dụng thư viện hỗ trợ (Board Support Package
-- BSP) và giao tiếp với giao thức SPI.
+bóng. Việc đọc giá trị cảm biến sử dụng thư viện hỗ trợ (Board Support Package - BSP) và giao tiếp với giao thức SPI.
 - TFT LCD: sử dụng LCD với mục đích hiển thị giao diện, tính điểm và tương
 tác trò chơi. Việc điều khiển LCD phụ thuộc đọc và xử lí dữ liệu và từ Gyroscope.
 Việc điều kiển LCD sử dụng thư viện hỗ trợ (Board Support Package - BSP).
