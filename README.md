@@ -64,4 +64,4 @@ hạ bóng, game over và khởi tạo trạng thái ban đầu cho game.
 
 
 # Demo
-- Link: https://drive.google.com/file/d/1wudimEJGNgzywjSTfItgjg17MlvWHRJ-/view?usp=sharing
+- Link: [PingPong Game](https://youtu.be/5Gl7H4UszDE)
